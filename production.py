@@ -1,4 +1,7 @@
 online features added
-print('feature1')
-print('feature2')
-print('feature3')
+print('online feature1')
+print('online feature2')
+print('online feature3')
+print('local feature4')
+print('local feature5')
+print('local feature5')
